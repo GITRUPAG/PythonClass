@@ -3,12 +3,15 @@
 # Mutable - can change
 # Allows Duplicates
 # Each item has index (position) starting from 0
-from dataTypesExamples import number
+# from dataTypesExamples import number
 
 fruits = ["apple", "banana", "pineapple", "banana", "apple"]
 numbers = [1, 12, 30, 41, 5]
 floats = [1.20, 5.36, 8.20]
 grades = ['a', 'b']
+
+print("grapes" not in fruits)
+
 
 print(fruits)
 print(fruits[2])

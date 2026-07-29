@@ -75,3 +75,8 @@ def login(username, password):
 
 print(login("admin", 1234))
 
+def printName():
+    return 2 +2
+
+print(printName())
+

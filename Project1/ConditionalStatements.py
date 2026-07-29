@@ -49,3 +49,24 @@ else:
  # username = "admin" and password = "1234"
 # print success or failure
 
+age = 150
+location = "USA"
+
+if age != 15 or location == "india":
+    print("Eligible")
+else:
+    print("Not Eligible")
+
+# is and is not are identity operators
+
+a = 10
+b = 10
+
+print( a is b) # check memory location
+
+list = [1, 2, 3]
+list1 = [1,2,3]
+
+print(list is list1)
+
+
