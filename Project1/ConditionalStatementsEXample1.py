@@ -49,7 +49,7 @@ balance = 5000
 
 withdraw = 6000
 
-if withdraw <= balance:
+if not withdraw <= balance :
     print("Transactional Successful")
 else:
     print("Insufficient Balance!!")

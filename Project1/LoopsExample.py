@@ -22,13 +22,13 @@ print("Numbers")
 for j in range(5):
     print("Hello!!")
 
-for i in range(2, 10, 3):
+for i in range(2, 10, 2):
     print(i)
 
 fruits = ["apple", "orange", "Mango"]
 
 for fruit in fruits:
-    print(fruit)
+    print(fruit.upper())
 
 scores = [10, 20, 30, 40, 50]
 

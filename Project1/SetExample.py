@@ -29,3 +29,6 @@ nums.pop()
 nums.clear()
 
 print(nums)
+
+n = {2, 8, 9, 9 , 8, 2}
+print(n)

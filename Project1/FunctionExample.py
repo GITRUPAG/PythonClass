@@ -68,7 +68,7 @@ def check_pass(marks):
     else:
         return False
 
-print(check_pass(10))
+print("Results : ", check_pass(10))
 
 def login(username, password):
     return username == "admin" and password=="1234"

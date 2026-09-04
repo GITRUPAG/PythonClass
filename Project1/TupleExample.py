@@ -8,6 +8,8 @@ numbers = (1, 2, 3, 4, 5, 6)
 
 print(colors)
 
+colors[0] = "pink"
+
 print(colors[0])
 
 print(colors.count("red")) # count occurrences

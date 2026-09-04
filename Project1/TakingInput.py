@@ -30,3 +30,6 @@ num1 = input("Num1 : ")
 num2 = input("Num2 : ")
 
 print("sum : ", num1 + num2)
+
+name = "Python"
+print("P" in name)

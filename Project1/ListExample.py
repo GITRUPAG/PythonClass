@@ -8,7 +8,7 @@
 fruits = ["apple", "banana", "pineapple", "banana", "apple"]
 numbers = [1, 12, 30, 41, 5]
 floats = [1.20, 5.36, 8.20]
-grades = ['a', 'b']
+grades = ['a', 'b', 10, 20]
 
 print("grapes" not in fruits)
 

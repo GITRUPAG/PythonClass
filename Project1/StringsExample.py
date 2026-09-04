@@ -2,7 +2,11 @@
 #enclosed in quotes
 alpha = 'aaaaa'
 name = 'aaaaa'
-name = "NAME"
+name= "NAME"
+
+age = 20
+salary = 20.366
+active = True
 
 # Features
 # ordered
