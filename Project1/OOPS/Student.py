@@ -6,12 +6,16 @@ class Student:
         self.name = name
         self.age = age
     def greet(self): # Method
+        str = "hello"
         return "GM!!!"
     def display(self):
         print(self.name)
         print(self.age)
 
 s1 = Student("Rupa", 30) # object
+
+s1.display()
+print(s1.College)
 
 
 s20= Student("Ajay", 25)

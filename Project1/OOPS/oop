@@ -5,3 +5,11 @@ Programing approach where we organize our program
 class - BluePrint for creating objects
 
 Object - instance of a class
+
+OOP principles or 4 pillars of OOPS
+
+Encapsulation - Wrapping of data(variables and methods) together and controlling access to the data
+Inheritance  - one class reuse properties and methods of another class
+PolyMorphism - same method can behave differently based on object
+Abstraction  - Hiding unnecessary implementation details and only showing only what is neccessary
+
